@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "esri-leaflet-geocoder": "2.3.3",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "4.2.1"
+  }
+}
